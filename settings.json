@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "the main villain",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "Mantis7522.aternos.me",
+    "port": 40172,
+    "version": "26.2 (4641)",
     "try-creative": false
   },
   "position": {
