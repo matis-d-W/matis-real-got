@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mantis7522.aternos.me:40172",
+    "ip": "Mantis7522.aternos.me",
     "port": 40172,
     "version": "1.21.1",
     "try-creative": false
